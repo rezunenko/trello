@@ -1,0 +1,24 @@
+{
+  "name": "trello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rezunenko/trello.git"
+  },
+  "keywords": [
+    "trello",
+    "test",
+    "integration"
+  ],
+  "author": "Rezunenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rezunenko/trello/issues"
+  },
+  "homepage": "https://github.com/rezunenko/trello#readme"
+}
