@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/rezunenko/trello/issues"
   },
-  "homepage": "https://github.com/rezunenko/trello#readme"
+  "homepage": "https://github.com/rezunenko/trello#readme",
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
 }
